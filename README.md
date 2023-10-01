@@ -12,4 +12,4 @@ AIM: What is Intent? Write down types of Intent and types of Intent Action. Crea
 
 6. Open Camera
 
-<img width="216" alt="image" src="https://github.com/Rushi-7070/MAS_Practical-5_21012011136/assets/97504709/3f092291-256b-48f9-ba38-2da5d548a98c">
+<img width="216" alt="image" src="https://github.com/Rushi-7070/MAS_Practical-5_21012011136/assets/97504709/1632bb35-55ac-471d-92fe-24b33bc76891">
